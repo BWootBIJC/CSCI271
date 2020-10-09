@@ -54,8 +54,7 @@ ROOT_URLCONF = 'mysite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [
-            r"C:\Users\jesus\OneDrive\Documents\LeeUniversity\ProgrammingProjects-Python\WebScraper\mysite\templates"],
+        'DIRS': [BASE_DIR, 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

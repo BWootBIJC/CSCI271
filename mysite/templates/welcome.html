@@ -5,19 +5,19 @@
 <body>
 <h1>Welcome! Please Answer the following question:</h1>
 
-<form>
+<form action="results.html" method="POST">
+    {% csrf_token %}
     <label>What topic would you like to know more about?</label><br>
-    <input type="radio" id="sports" name="sports" value="sports">
+    <input type="radio" id="sports" name="choice" value="sports">
     <label for="sports">Sports</label><br>
-    <input type="radio" id="economy" name="economy" value="economy">
+    <input type="radio" id="economy" name="choice" value="economy">
     <label for="sports">The Economy</label><br>
-    <input type="radio" id="gaming" name="gaming" value="gaming">
+    <input type="radio" id="gaming" name="choice" value="gaming">
     <label for="sports">Gaming</label><br>
-    <input type="radio" id="politics" name="politics" value="politics">
+    <input type="radio" id="politics" name="choice" value="politics">
     <label for="sports">Politics</label><br>
-    <input type="submit" value="Submit" href="results.html">
+    <a href="results.html"><input type="submit" value="Submit"></a>
 </form>
-<button><a href="results.html">Next</a></button>
 
 </body>
 
