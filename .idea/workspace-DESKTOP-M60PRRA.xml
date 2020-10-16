@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a9ab73d-ba0a-44d1-8df9-58c74254732e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hQ8ds6OlrnXJbZSDkHS6PBVQTE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProgrammingProjects-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProgrammingProjects-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.manage" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a9ab73d-ba0a-44d1-8df9-58c74254732e" name="Default Changelist" comment="" />
+      <created>1599932045545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599932045545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-914" y="172" key="#Inspections" timestamp="1601512096714">
+      <screen x="-1080" y="-446" width="1080" height="1880" />
+    </state>
+    <state x="-914" y="172" key="#Inspections/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601512096714" />
+    <state x="0" y="300" width="1280" height="514" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602122195491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1080" y="149" width="1080" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601521269341" />
+    <state x="0" y="300" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1080.-446.1080.1880@0.0.1920.1040" timestamp="1602122195491" />
+    <state x="0" y="232" width="1280" height="514" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723@0.23.1280.723" timestamp="1601567684023" />
+    <state x="-781" y="296" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599933639067">
+      <screen x="-1080" y="-446" width="1080" height="1880" />
+    </state>
+    <state x="-781" y="296" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1599933639067" />
+    <state x="569" y="391" key="FileChooserDialogImpl" timestamp="1602122191769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-760" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601520341053" />
+    <state x="569" y="391" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-446.1080.1880@0.0.1920.1040" timestamp="1602122191769" />
+    <state width="1899" height="135" key="GridCell.Tab.0.bottom" timestamp="1602213416179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1059" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601521797032" />
+    <state width="1899" height="135" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-446.1080.1880@0.0.1920.1040" timestamp="1602213416179" />
+    <state width="1239" height="167" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1601642404654" />
+    <state width="1899" height="135" key="GridCell.Tab.0.center" timestamp="1602213416178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1059" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601521797032" />
+    <state width="1899" height="135" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-446.1080.1880@0.0.1920.1040" timestamp="1602213416178" />
+    <state width="1239" height="167" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1601642404653" />
+    <state width="1899" height="135" key="GridCell.Tab.0.left" timestamp="1602213416178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1059" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601521797032" />
+    <state width="1899" height="135" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-446.1080.1880@0.0.1920.1040" timestamp="1602213416178" />
+    <state width="1239" height="167" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1601642404653" />
+    <state width="1899" height="135" key="GridCell.Tab.0.right" timestamp="1602213416178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1059" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601521797032" />
+    <state width="1899" height="135" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-446.1080.1880@0.0.1920.1040" timestamp="1602213416178" />
+    <state width="1239" height="167" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1601642404653" />
+    <state width="1059" height="684" key="GridCell.Tab.1.bottom" timestamp="1601504645917">
+      <screen x="-1080" y="-446" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="684" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601504645917" />
+    <state width="1059" height="684" key="GridCell.Tab.1.center" timestamp="1601504645917">
+      <screen x="-1080" y="-446" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="684" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601504645917" />
+    <state width="1059" height="684" key="GridCell.Tab.1.left" timestamp="1601504645917">
+      <screen x="-1080" y="-446" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="684" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601504645917" />
+    <state width="1059" height="684" key="GridCell.Tab.1.right" timestamp="1601504645917">
+      <screen x="-1080" y="-446" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="684" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601504645917" />
+    <state x="-887" y="214" key="RollbackChangesDialog" timestamp="1601519906118">
+      <screen x="-1080" y="-446" width="1080" height="1880" />
+    </state>
+    <state x="-887" y="214" key="RollbackChangesDialog/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601519906118" />
+    <state x="74" y="1" key="SettingsEditor" timestamp="1602122031199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-998" y="253" key="SettingsEditor/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601520500875" />
+    <state x="74" y="1" key="SettingsEditor/0.0.1920.1040/-1080.-446.1080.1880@0.0.1920.1040" timestamp="1602122031199" />
+    <state x="49" y="24" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1601567577190" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1601516729855">
+      <screen x="-1080" y="-446" width="1080" height="1880" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1920.1040/-1080.-446.1080.1880@-1080.-446.1080.1880" timestamp="1601516729855" />
+  </component>
+</project>
