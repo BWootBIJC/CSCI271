@@ -3,21 +3,31 @@
     <title>Home</title>
 </header>
 <body>
-<h1>Welcome! Please Answer the following question:</h1>
+<h2>I hear that you are interested in a pc build.</h2>
+<p>In the dropdown menu below, I have given you a few essential components to choose from so that you may experience gaming at full computing power.</p>
 
-<form action="results.html" method="POST">
-    {% csrf_token %}
-    <label>So, I heard you are thinking about upgrading your pc? Which part are you looking to upgrade?</label><br>
-    <input type="radio" id="pc-parts" name="choice" value="GPU">
-    <label for="pc-parts">GPU</label><br>
-    <input type="radio" id="CPU" name="choice" value="CPU">
-    <label for="pc-parts">CPU</label><br>
-    <input type="radio" id="gaming" name="choice" value="motherboards">
-    <label for="pc-parts">Motherboard</label><br>
-    <input type="radio" id="politics" name="choice" value="monitors">
-    <label for="pc-parts">Monitor</label><br>
-    <a href="results.html"><input type="submit" value="Submit"></a>
+<!--<form action="results.html" method="POST">-->
+<!--    {% csrf_token %}-->
+<!--    <label>So, I heard you are thinking about upgrading your pc? Which part are you looking to upgrade?</label><br>-->
+<!--    <input type="radio" id="pc-parts" name="choice" value="GPU">-->
+<!--    <label for="pc-parts">GPU</label><br>-->
+<!--    <input type="radio" id="CPU" name="choice" value="CPU">-->
+<!--    <label for="pc-parts">CPU</label><br>-->
+<!--    <input type="radio" id="gaming" name="choice" value="motherboards">-->
+<!--    <label for="pc-parts">Motherboard</label><br>-->
+<!--    <input type="radio" id="politics" name="choice" value="monitors">-->
+<!--    <label for="pc-parts">Monitor</label><br>-->
+<!--    <input type="submit" value="Submit">-->
+<!--</form>-->
+
+
+<form method="GET">
+<!--    {% csrf_token %}-->
+    {{ form }}
+    <input type="Submit">
 </form>
+
+
 
 </body>
 
